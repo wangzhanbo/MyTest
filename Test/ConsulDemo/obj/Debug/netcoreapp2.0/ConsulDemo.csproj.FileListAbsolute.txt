@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\ConsulDemo\bin\Debug\netcoreapp2.0\ConsulDemo.deps.json
+D:\Project\Git\test\Test\ConsulDemo\bin\Debug\netcoreapp2.0\ConsulDemo.runtimeconfig.json
+D:\Project\Git\test\Test\ConsulDemo\bin\Debug\netcoreapp2.0\ConsulDemo.runtimeconfig.dev.json
+D:\Project\Git\test\Test\ConsulDemo\bin\Debug\netcoreapp2.0\ConsulDemo.dll
+D:\Project\Git\test\Test\ConsulDemo\obj\Debug\netcoreapp2.0\ConsulDemo.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\ConsulDemo\obj\Debug\netcoreapp2.0\ConsulDemo.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\ConsulDemo\obj\Debug\netcoreapp2.0\ConsulDemo.AssemblyInfo.cs
+D:\Project\Git\test\Test\ConsulDemo\bin\Debug\netcoreapp2.0\ConsulDemo.pdb
+D:\Project\Git\test\Test\ConsulDemo\obj\Debug\netcoreapp2.0\ConsulDemo.dll
+D:\Project\Git\test\Test\ConsulDemo\obj\Debug\netcoreapp2.0\ConsulDemo.pdb
+D:\Project\Git\test\Test\ConsulDemo\obj\Debug\netcoreapp2.0\ConsulDemo.csprojResolveAssemblyReference.cache

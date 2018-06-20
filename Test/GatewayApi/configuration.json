@@ -1,0 +1,30 @@
+﻿{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 63736
+        },
+        {
+          "Host": "localhost",
+          "Port": 63830
+        }
+      ],
+      "DownstreamHost": "localhost",
+      "UpstreamPathTemplate": "/values",
+      "UpstreamHttpMethod": [ "Get" ],
+      "ServiceName": "MyServiceName",
+      "LoadBalancer": "LeastConnection",
+      "UseServiceDiscovery": false
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:61934/",
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500
+    }
+  }
+}

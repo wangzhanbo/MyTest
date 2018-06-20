@@ -1,0 +1,14 @@
+D:\Project\Git\test\Test\api3\bin\Debug\netcoreapp2.0\api3.deps.json
+D:\Project\Git\test\Test\api3\bin\Debug\netcoreapp2.0\api3.runtimeconfig.json
+D:\Project\Git\test\Test\api3\bin\Debug\netcoreapp2.0\api3.runtimeconfig.dev.json
+D:\Project\Git\test\Test\api3\bin\Debug\netcoreapp2.0\api3.dll
+D:\Project\Git\test\Test\api3\bin\Debug\netcoreapp2.0\api3.pdb
+D:\Project\Git\test\Test\api3\obj\Debug\netcoreapp2.0\api3.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\api3\obj\Debug\netcoreapp2.0\api3.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\api3\obj\Debug\netcoreapp2.0\api3.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\api3\obj\Debug\netcoreapp2.0\api3.AssemblyInfo.cs
+D:\Project\Git\test\Test\api3\obj\Debug\netcoreapp2.0\api3.dll
+D:\Project\Git\test\Test\api3\obj\Debug\netcoreapp2.0\api3.pdb
+D:\Project\Git\test\Test\api3\bin\Debug\netcoreapp2.0\ConsulDiscovery.dll
+D:\Project\Git\test\Test\api3\bin\Debug\netcoreapp2.0\ConsulDiscovery.pdb
+D:\Project\Git\test\Test\api3\obj\Debug\netcoreapp2.0\api3.csproj.CopyComplete

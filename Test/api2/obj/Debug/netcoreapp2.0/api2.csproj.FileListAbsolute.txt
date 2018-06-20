@@ -1,0 +1,14 @@
+D:\Project\Git\test\Test\api2\obj\Debug\netcoreapp2.0\api2.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\api2\obj\Debug\netcoreapp2.0\api2.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\api2\obj\Debug\netcoreapp2.0\api2.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\api2\obj\Debug\netcoreapp2.0\api2.AssemblyInfo.cs
+D:\Project\Git\test\Test\api2\bin\Debug\netcoreapp2.0\api2.deps.json
+D:\Project\Git\test\Test\api2\bin\Debug\netcoreapp2.0\api2.runtimeconfig.json
+D:\Project\Git\test\Test\api2\bin\Debug\netcoreapp2.0\api2.runtimeconfig.dev.json
+D:\Project\Git\test\Test\api2\bin\Debug\netcoreapp2.0\api2.dll
+D:\Project\Git\test\Test\api2\bin\Debug\netcoreapp2.0\api2.pdb
+D:\Project\Git\test\Test\api2\bin\Debug\netcoreapp2.0\ConsulDiscovery.dll
+D:\Project\Git\test\Test\api2\bin\Debug\netcoreapp2.0\ConsulDiscovery.pdb
+D:\Project\Git\test\Test\api2\obj\Debug\netcoreapp2.0\api2.csproj.CopyComplete
+D:\Project\Git\test\Test\api2\obj\Debug\netcoreapp2.0\api2.dll
+D:\Project\Git\test\Test\api2\obj\Debug\netcoreapp2.0\api2.pdb

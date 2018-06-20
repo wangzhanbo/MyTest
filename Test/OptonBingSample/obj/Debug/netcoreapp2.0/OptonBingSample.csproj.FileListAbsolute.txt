@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\OptonBingSample\bin\Debug\netcoreapp2.0\OptonBingSample.deps.json
+D:\Project\Git\test\Test\OptonBingSample\bin\Debug\netcoreapp2.0\OptonBingSample.runtimeconfig.json
+D:\Project\Git\test\Test\OptonBingSample\bin\Debug\netcoreapp2.0\OptonBingSample.runtimeconfig.dev.json
+D:\Project\Git\test\Test\OptonBingSample\bin\Debug\netcoreapp2.0\OptonBingSample.dll
+D:\Project\Git\test\Test\OptonBingSample\bin\Debug\netcoreapp2.0\OptonBingSample.pdb
+D:\Project\Git\test\Test\OptonBingSample\obj\Debug\netcoreapp2.0\OptonBingSample.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\OptonBingSample\obj\Debug\netcoreapp2.0\OptonBingSample.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\OptonBingSample\obj\Debug\netcoreapp2.0\OptonBingSample.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\OptonBingSample\obj\Debug\netcoreapp2.0\OptonBingSample.AssemblyInfo.cs
+D:\Project\Git\test\Test\OptonBingSample\obj\Debug\netcoreapp2.0\OptonBingSample.dll
+D:\Project\Git\test\Test\OptonBingSample\obj\Debug\netcoreapp2.0\OptonBingSample.pdb

@@ -1,0 +1,13 @@
+D:\Project\Git\test\Test\GatewayApi\bin\Debug\netcoreapp2.0\GatewayApi.deps.json
+D:\Project\Git\test\Test\GatewayApi\bin\Debug\netcoreapp2.0\GatewayApi.runtimeconfig.json
+D:\Project\Git\test\Test\GatewayApi\bin\Debug\netcoreapp2.0\GatewayApi.runtimeconfig.dev.json
+D:\Project\Git\test\Test\GatewayApi\bin\Debug\netcoreapp2.0\GatewayApi.dll
+D:\Project\Git\test\Test\GatewayApi\obj\Debug\netcoreapp2.0\GatewayApi.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\GatewayApi\obj\Debug\netcoreapp2.0\GatewayApi.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\GatewayApi\obj\Debug\netcoreapp2.0\GatewayApi.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\GatewayApi\obj\Debug\netcoreapp2.0\GatewayApi.AssemblyInfo.cs
+D:\Project\Git\test\Test\GatewayApi\bin\Debug\netcoreapp2.0\GatewayApi.pdb
+D:\Project\Git\test\Test\GatewayApi\obj\Debug\netcoreapp2.0\GatewayApi.dll
+D:\Project\Git\test\Test\GatewayApi\obj\Debug\netcoreapp2.0\GatewayApi.pdb
+D:\Project\Git\test\Test\GatewayApi\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Project\Git\test\Test\GatewayApi\bin\Debug\netcoreapp2.0\configuration.json

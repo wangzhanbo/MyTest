@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\ApiSwaggerDemo\bin\Debug\netcoreapp2.0\ApiSwaggerDemo.deps.json
+D:\Project\Git\test\Test\ApiSwaggerDemo\bin\Debug\netcoreapp2.0\ApiSwaggerDemo.runtimeconfig.json
+D:\Project\Git\test\Test\ApiSwaggerDemo\bin\Debug\netcoreapp2.0\ApiSwaggerDemo.runtimeconfig.dev.json
+D:\Project\Git\test\Test\ApiSwaggerDemo\bin\Debug\netcoreapp2.0\ApiSwaggerDemo.dll
+D:\Project\Git\test\Test\ApiSwaggerDemo\obj\Debug\netcoreapp2.0\ApiSwaggerDemo.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\ApiSwaggerDemo\obj\Debug\netcoreapp2.0\ApiSwaggerDemo.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\ApiSwaggerDemo\obj\Debug\netcoreapp2.0\ApiSwaggerDemo.AssemblyInfo.cs
+D:\Project\Git\test\Test\ApiSwaggerDemo\bin\Debug\netcoreapp2.0\ApiSwaggerDemo.pdb
+D:\Project\Git\test\Test\ApiSwaggerDemo\obj\Debug\netcoreapp2.0\ApiSwaggerDemo.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\ApiSwaggerDemo\obj\Debug\netcoreapp2.0\ApiSwaggerDemo.dll
+D:\Project\Git\test\Test\ApiSwaggerDemo\obj\Debug\netcoreapp2.0\ApiSwaggerDemo.pdb

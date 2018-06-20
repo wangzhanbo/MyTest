@@ -1,0 +1,9 @@
+D:\Project\Git\test\Test\ConsulDiscovery\bin\Debug\netcoreapp2.0\ConsulDiscovery.deps.json
+D:\Project\Git\test\Test\ConsulDiscovery\bin\Debug\netcoreapp2.0\ConsulDiscovery.dll
+D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.AssemblyInfo.cs
+D:\Project\Git\test\Test\ConsulDiscovery\bin\Debug\netcoreapp2.0\ConsulDiscovery.pdb
+D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.dll
+D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.pdb
+D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.csprojResolveAssemblyReference.cache

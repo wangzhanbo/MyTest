@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\Clients\bin\Debug\netcoreapp2.0\Clients.deps.json
+D:\Project\Git\test\Test\Clients\bin\Debug\netcoreapp2.0\Clients.runtimeconfig.json
+D:\Project\Git\test\Test\Clients\bin\Debug\netcoreapp2.0\Clients.runtimeconfig.dev.json
+D:\Project\Git\test\Test\Clients\bin\Debug\netcoreapp2.0\Clients.dll
+D:\Project\Git\test\Test\Clients\obj\Debug\netcoreapp2.0\Clients.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\Clients\obj\Debug\netcoreapp2.0\Clients.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\Clients\obj\Debug\netcoreapp2.0\Clients.AssemblyInfo.cs
+D:\Project\Git\test\Test\Clients\obj\Debug\netcoreapp2.0\Clients.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\Clients\bin\Debug\netcoreapp2.0\Clients.pdb
+D:\Project\Git\test\Test\Clients\obj\Debug\netcoreapp2.0\Clients.dll
+D:\Project\Git\test\Test\Clients\obj\Debug\netcoreapp2.0\Clients.pdb

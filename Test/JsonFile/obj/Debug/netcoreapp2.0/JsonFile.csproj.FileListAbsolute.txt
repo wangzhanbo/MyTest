@@ -1,0 +1,12 @@
+D:\Project\Git\test\Test\JsonFile\bin\Debug\netcoreapp2.0\JsonFile.deps.json
+D:\Project\Git\test\Test\JsonFile\bin\Debug\netcoreapp2.0\JsonFile.runtimeconfig.json
+D:\Project\Git\test\Test\JsonFile\bin\Debug\netcoreapp2.0\JsonFile.runtimeconfig.dev.json
+D:\Project\Git\test\Test\JsonFile\bin\Debug\netcoreapp2.0\JsonFile.dll
+D:\Project\Git\test\Test\JsonFile\obj\Debug\netcoreapp2.0\JsonFile.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\JsonFile\obj\Debug\netcoreapp2.0\JsonFile.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\JsonFile\obj\Debug\netcoreapp2.0\JsonFile.AssemblyInfo.cs
+D:\Project\Git\test\Test\JsonFile\obj\Debug\netcoreapp2.0\JsonFile.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\JsonFile\bin\Debug\netcoreapp2.0\JsonFile.pdb
+D:\Project\Git\test\Test\JsonFile\obj\Debug\netcoreapp2.0\JsonFile.dll
+D:\Project\Git\test\Test\JsonFile\obj\Debug\netcoreapp2.0\JsonFile.pdb
+D:\Project\Git\test\Test\JsonFile\bin\Debug\netcoreapp2.0\my.json
