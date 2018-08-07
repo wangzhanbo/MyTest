@@ -27,6 +27,9 @@ namespace RabbitMQ
                 {
                     option.UseEntityFramework<DataContext>();
                     option.UseRabbitMQ("localhost");
+                    option.FailedRetryInterval = 1;
+                    option.FailedRetryCount = 60;
+                    
                 });
             // services.AddTransient<ISubscriberService, SubscriberService>();
             services.AddMvc();

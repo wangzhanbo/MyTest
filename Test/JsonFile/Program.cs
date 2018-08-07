@@ -6,7 +6,10 @@ namespace JsonFile
     class Program
     {
         static void Main(string[] args)
+            
         {
+           //var ab= new ConfigurationBinder().
+          // var abc = new ConfigurationBuilder().add
             var builder = new ConfigurationBuilder().AddJsonFile("my.json",true,true);
 
             var config = builder.Build();

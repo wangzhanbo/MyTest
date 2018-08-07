@@ -1,0 +1,14 @@
+D:\Project\Git\test\Test\RabbitMQ2\bin\Debug\netcoreapp2.1\RabbitMQ2.deps.json
+D:\Project\Git\test\Test\RabbitMQ2\bin\Debug\netcoreapp2.1\RabbitMQ2.runtimeconfig.json
+D:\Project\Git\test\Test\RabbitMQ2\bin\Debug\netcoreapp2.1\RabbitMQ2.runtimeconfig.dev.json
+D:\Project\Git\test\Test\RabbitMQ2\bin\Debug\netcoreapp2.1\RabbitMQ2.dll
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.RazorAssemblyInfo.cache
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.RazorAssemblyInfo.cs
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.AssemblyInfo.cs
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.RazorTargetAssemblyInfo.cache
+D:\Project\Git\test\Test\RabbitMQ2\bin\Debug\netcoreapp2.1\RabbitMQ2.pdb
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.dll
+D:\Project\Git\test\Test\RabbitMQ2\obj\Debug\netcoreapp2.1\RabbitMQ2.pdb

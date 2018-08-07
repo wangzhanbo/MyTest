@@ -16,30 +16,30 @@ namespace RabbitMQ.Controllers
             _publisher = publisher;
         }
 
-        [Route("~/checkAccountWithTrans")]
-        public async Task<string> PublishMessageWithTransactionAsync()
-        {
+        //[Route("~/checkAccountWithTrans")]
+        //public async Task<string> PublishMessageWithTransactionAsync()
+        //{
 
-            //await _publisher.PublishAsync("xxx.services.account.check", new Person { Name = "Foo", Age = 11 });// 你的业务代码。
-            //await _publisher.PublishAsync("xxx.services.account.check", new Person { Name = "Foo", Age = 11 });// 你的业务代码。
-            //var d = "";// GetString().Result + GetString2().Result;
+        //    await _publisher.PublishAsync("xxx.services.account.check", new Person { Name = "Foo", Age = 11 });// 你的业务代码。
+        //    //await _publisher.PublishAsync("xxx.services.account.check", new Person { Name = "Foo", Age = 11 });// 你的业务代码。
+        //    //var d = "";// GetString().Result + GetString2().Result;
 
-            Console.WriteLine(DateTime.Now);
+        //    Console.WriteLine(DateTime.Now);
 
-            //string all = GetString().Result + GetString2().Result;
-            string a =await GetString();
-            string b = await GetString2();
+        //    //string all = GetString().Result + GetString2().Result;
+        //    string a =await GetString();
+        //    string b = await GetString2();
 
-            //var a = GetString();
-            //var b = GetString2();
+        //    //var a = GetString();
+        //    //var b = GetString2();
 
-            string all = a + b ;
+        //    string all = a + b ;
 
-            Console.WriteLine(DateTime.Now);
+        //    Console.WriteLine(DateTime.Now);
 
-            return all;
-            //return d;
-        }
+        //    return all;
+        //    //return d;
+        //}
 
         public async Task<string> GetString()
         {
@@ -60,6 +60,16 @@ namespace RabbitMQ.Controllers
         //[NoAction]
         [CapSubscribe("xxx.services.account.check")]
         public async Task CheckReceivedMessage(Person person)
+        {
+            Console.WriteLine(person.Name);
+            Console.WriteLine(person.Age);
+            //throw new Exception("");
+            //  return Task. ;
+        }
+
+        //[NoAction]
+        [CapSubscribe("abc.services.account.check")]
+        public async Task CheckReceivedMessage2(Person person)
         {
             Console.WriteLine(person.Name);
             Console.WriteLine(person.Age);
