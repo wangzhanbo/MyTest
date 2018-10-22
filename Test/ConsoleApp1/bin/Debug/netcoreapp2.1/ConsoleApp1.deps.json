@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "4417650b340a8bbdafe59c79e3f16cafed2ac666"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "PostSharp": "6.0.25"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "PostSharp/6.0.25": {
+        "dependencies": {
+          "PostSharp.Redist": "6.0.25"
+        }
+      },
+      "PostSharp.Redist/6.0.25": {
+        "runtime": {
+          "lib/netstandard2.0/PostSharp.dll": {
+            "assemblyVersion": "6.0.25.0",
+            "fileVersion": "6.0.25.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp/6.0.25": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wHyJpGDN41euIziTXMuZk/wDGohcpJyjilOIKlipB+j6+S4n0MWruyMR6YJNBpEP7vVk0rMqGrVl4kgbcAkAdQ==",
+      "path": "postsharp/6.0.25",
+      "hashPath": "postsharp.6.0.25.nupkg.sha512"
+    },
+    "PostSharp.Redist/6.0.25": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xN8GwAonDESDeyZTI4slhEsUGZHGybx87aiLl6nm1u9yLgschbTXHlV3KjKgTnj8d0COE6K9eLCV2u9S4eYUyg==",
+      "path": "postsharp.redist/6.0.25",
+      "hashPath": "postsharp.redist.6.0.25.nupkg.sha512"
+    }
+  }
+}

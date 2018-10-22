@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Orleans.CodeGeneration.Build</name>
+    </assembly>
+    <members>
+        <member name="T:Orleans.CodeGeneration.AssemblyResolver">
+            <summary>
+            Simple class that loads the reference assemblies upon the AppDomain.AssemblyResolve
+            </summary>
+        </member>
+        <member name="P:Orleans.CodeGeneration.AssemblyResolver.ReferenceAssemblyPaths">
+            <summary>
+            Needs to be public so can be serialized accross the the app domain.
+            </summary>
+        </member>
+        <member name="M:Orleans.CodeGeneration.AssemblyResolver.ResolveAssembly(System.Object,System.ResolveEventArgs)">
+            <summary>
+            Handles System.AppDomain.AssemblyResolve event of an System.AppDomain
+            </summary>
+            <param name="sender">The source of the event.</param>
+            <param name="args">The event data.</param>
+            <returns>The assembly that resolves the type, assembly, or resource; 
+            or null if theassembly cannot be resolved.
+            </returns>
+        </member>
+        <member name="M:Orleans.CodeGeneration.Program.LogFormatter.PrintException(System.Exception)">
+            <summary>
+            Utility function to convert an exception into printable format, including expanding and formatting any nested sub-expressions.
+            </summary>
+            <param name="exception">The exception to be printed.</param>
+            <returns>Formatted string representation of the exception, including expanding and formatting any nested sub-expressions.</returns>
+        </member>
+    </members>
+</doc>

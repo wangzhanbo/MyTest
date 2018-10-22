@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.0.25\bin.Release\netcoreapp2.0\PostSharp.Compiler.Engine.dll
+D:\Project\Git\test\Test\ProtoBufDemo\obj\Debug\netcoreapp2.1\PostSharp\postsharp.config

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <set KeyValue="Q" MinSecond="1000" MaxSecond ="2000"></set>
+  <set KeyValue="E" MinSecond="2000" MaxSecond ="3000"></set>
+  <set KeyValue="Space" MinSecond="3000" MaxSecond ="4000"></set>
+</root>

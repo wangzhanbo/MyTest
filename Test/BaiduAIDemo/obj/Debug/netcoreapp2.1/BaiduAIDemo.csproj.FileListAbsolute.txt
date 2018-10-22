@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\BaiduAIDemo\bin\Debug\netcoreapp2.1\BaiduAIDemo.deps.json
+D:\Project\Git\test\Test\BaiduAIDemo\bin\Debug\netcoreapp2.1\BaiduAIDemo.runtimeconfig.json
+D:\Project\Git\test\Test\BaiduAIDemo\bin\Debug\netcoreapp2.1\BaiduAIDemo.runtimeconfig.dev.json
+D:\Project\Git\test\Test\BaiduAIDemo\bin\Debug\netcoreapp2.1\BaiduAIDemo.dll
+D:\Project\Git\test\Test\BaiduAIDemo\obj\Debug\netcoreapp2.1\BaiduAIDemo.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\BaiduAIDemo\obj\Debug\netcoreapp2.1\BaiduAIDemo.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\BaiduAIDemo\obj\Debug\netcoreapp2.1\BaiduAIDemo.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\BaiduAIDemo\obj\Debug\netcoreapp2.1\BaiduAIDemo.AssemblyInfo.cs
+D:\Project\Git\test\Test\BaiduAIDemo\bin\Debug\netcoreapp2.1\BaiduAIDemo.pdb
+D:\Project\Git\test\Test\BaiduAIDemo\obj\Debug\netcoreapp2.1\BaiduAIDemo.dll
+D:\Project\Git\test\Test\BaiduAIDemo\obj\Debug\netcoreapp2.1\BaiduAIDemo.pdb

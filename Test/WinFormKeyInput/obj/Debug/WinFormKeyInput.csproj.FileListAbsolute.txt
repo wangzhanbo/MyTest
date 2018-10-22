@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\WinFormKeyInput\obj\Debug\WinFormKeyInput.Form1.resources
+D:\Project\Git\test\Test\WinFormKeyInput\obj\Debug\WinFormKeyInput.Properties.Resources.resources
+D:\Project\Git\test\Test\WinFormKeyInput\obj\Debug\WinFormKeyInput.csproj.GenerateResource.cache
+D:\Project\Git\test\Test\WinFormKeyInput\obj\Debug\WinFormKeyInput.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\WinFormKeyInput\obj\Debug\WinFormKeyInput.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\WinFormKeyInput\bin\Debug\setting.xml
+D:\Project\Git\test\Test\WinFormKeyInput\bin\Debug\WinFormKeyInput.exe.config
+D:\Project\Git\test\Test\WinFormKeyInput\bin\Debug\WinFormKeyInput.exe
+D:\Project\Git\test\Test\WinFormKeyInput\bin\Debug\WinFormKeyInput.pdb
+D:\Project\Git\test\Test\WinFormKeyInput\obj\Debug\WinFormKeyInput.exe
+D:\Project\Git\test\Test\WinFormKeyInput\obj\Debug\WinFormKeyInput.pdb

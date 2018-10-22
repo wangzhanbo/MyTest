@@ -6,4 +6,4 @@ D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery
 D:\Project\Git\test\Test\ConsulDiscovery\bin\Debug\netcoreapp2.0\ConsulDiscovery.pdb
 D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.dll
 D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.pdb
-D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\ConsulDiscovery\obj\Debug\netcoreapp2.0\ConsulDiscovery.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Project\Git\test\Test\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Project\Git\test\Test\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Project\Git\test\Test\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Project\Git\test\Test\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pssym
+D:\Project\Git\test\Test\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\PostSharp\touch
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\PostSharp\dependencies.txt
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Project\Git\test\Test\ConsoleApp1\obj\Debug\netcoreapp2.1\PostSharp\postsharp.app.config

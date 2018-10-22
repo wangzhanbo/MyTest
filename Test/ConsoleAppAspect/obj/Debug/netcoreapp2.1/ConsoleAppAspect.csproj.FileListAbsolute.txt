@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\ConsoleAppAspect\bin\Debug\netcoreapp2.1\ConsoleAppAspect.deps.json
+D:\Project\Git\test\Test\ConsoleAppAspect\bin\Debug\netcoreapp2.1\ConsoleAppAspect.runtimeconfig.json
+D:\Project\Git\test\Test\ConsoleAppAspect\bin\Debug\netcoreapp2.1\ConsoleAppAspect.runtimeconfig.dev.json
+D:\Project\Git\test\Test\ConsoleAppAspect\bin\Debug\netcoreapp2.1\ConsoleAppAspect.dll
+D:\Project\Git\test\Test\ConsoleAppAspect\obj\Debug\netcoreapp2.1\ConsoleAppAspect.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\ConsoleAppAspect\obj\Debug\netcoreapp2.1\ConsoleAppAspect.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\ConsoleAppAspect\obj\Debug\netcoreapp2.1\ConsoleAppAspect.AssemblyInfo.cs
+D:\Project\Git\test\Test\ConsoleAppAspect\obj\Debug\netcoreapp2.1\ConsoleAppAspect.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\ConsoleAppAspect\bin\Debug\netcoreapp2.1\ConsoleAppAspect.pdb
+D:\Project\Git\test\Test\ConsoleAppAspect\obj\Debug\netcoreapp2.1\ConsoleAppAspect.dll
+D:\Project\Git\test\Test\ConsoleAppAspect\obj\Debug\netcoreapp2.1\ConsoleAppAspect.pdb

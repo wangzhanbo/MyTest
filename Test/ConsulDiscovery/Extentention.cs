@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.IO;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
+using System.Text;
 
 namespace ConsulDiscovery
 {
@@ -14,11 +15,12 @@ namespace ConsulDiscovery
     {
         public static IApplicationBuilder UseConsul(this IApplicationBuilder app)
         {
-            var configuration = app.ApplicationServices.GetRequiredService<IConfiguration>()??
+            var configuration = app.ApplicationServices.GetRequiredService<IConfiguration>() ??
                throw new ArgumentException("Missing Dependency", nameof(IConfiguration));
 
             var applicationLifetime = app.ApplicationServices.GetRequiredService<IApplicationLifetime>() ??
                throw new ArgumentException("Missing Dependency", nameof(IApplicationLifetime));
+
             Action action = () =>
             {
                 string URLS = configuration.GetSection("URLS").Value;
@@ -31,12 +33,17 @@ namespace ConsulDiscovery
                 Console.WriteLine($"applicationName:{applicationName}");
 
                 Uri uri = new Uri(heathCheckUrl);
-                var client = new ConsulClient();
+                
+
+                //var client = new ConsulClient();
+                var client = new ConsulClient((c) => { c.Address = new Uri("http://11.11.164.197:8500"); c.Token = "xxxhelloworldxxx"; });
+                //client.ACL.
+                //client.Config = consulClientConfiguration;
 
                 var httpCheck = new AgentServiceCheck()
                 {
                     //健康检查出错后，在consul去掉这个服务的时间
-                    DeregisterCriticalServiceAfter = TimeSpan.FromSeconds(11),
+                    DeregisterCriticalServiceAfter = TimeSpan.FromSeconds(1),
 
                     //健康检查的频率
                     Interval = TimeSpan.FromSeconds(1),
@@ -53,10 +60,16 @@ namespace ConsulDiscovery
                     Address = uri.Host,
                     Port = uri.Port,
                     Check = httpCheck,
-                    //Name = applicationName,
-                    Name = "api1",
+                    Name = applicationName,
+                    //Name = "api1",
                 };
+                
                 client.Agent.ServiceRegister(register).ConfigureAwait(false);
+
+                var p = new KVPair("var/config/constr") { Flags = 42, Value =  Encoding.UTF8.GetBytes("test") };
+                
+                var putResponse =  client.KV.Put(p);
+
             };
 
             applicationLifetime.ApplicationStarted.Register(action);
@@ -77,7 +90,7 @@ namespace ConsulDiscovery
     [Route("HeathCheck")]
     public class HeathCheckController : Controller
     {
-        
+
         [HttpGet]
         public IActionResult Get()
         {

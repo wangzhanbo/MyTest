@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="19" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.0.25.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[ConsoleApp1]ConsoleApp1.MyAspect">
+    <Instance Declaration="#2=M:[ConsoleApp1]ConsoleApp1.MyClass::MyMehtod(System.String)" Id="84298fea98c9aa9c">
+      <Target LinesAvoided="2">
+        <JoinPoint Description="#3=Intercepted by OnInvoke" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#4=M:[PostSharp]PostSharp.Aspects.IMethodInterceptionAspect::OnInvoke([PostSharp]PostSharp.Aspects.MethodInterceptionArgs)" Arguments="#5=2" Description="#6=PostSharp estimates that 2 line(s) of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>
