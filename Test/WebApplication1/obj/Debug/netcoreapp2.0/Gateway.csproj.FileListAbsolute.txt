@@ -5,9 +5,9 @@ D:\Project\Git\test\Test\WebApplication1\bin\Debug\netcoreapp2.0\Gateway.runtime
 D:\Project\Git\test\Test\WebApplication1\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.dev.json
 D:\Project\Git\test\Test\WebApplication1\bin\Debug\netcoreapp2.0\Gateway.dll
 D:\Project\Git\test\Test\WebApplication1\bin\Debug\netcoreapp2.0\Gateway.pdb
-D:\Project\Git\test\Test\WebApplication1\obj\Debug\netcoreapp2.0\Gateway.csprojResolveAssemblyReference.cache
 D:\Project\Git\test\Test\WebApplication1\obj\Debug\netcoreapp2.0\Gateway.csproj.CoreCompileInputs.cache
 D:\Project\Git\test\Test\WebApplication1\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfoInputs.cache
 D:\Project\Git\test\Test\WebApplication1\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfo.cs
 D:\Project\Git\test\Test\WebApplication1\obj\Debug\netcoreapp2.0\Gateway.dll
 D:\Project\Git\test\Test\WebApplication1\obj\Debug\netcoreapp2.0\Gateway.pdb
+D:\Project\Git\test\Test\WebApplication1\obj\Debug\netcoreapp2.0\Gateway.csprojAssemblyReference.cache

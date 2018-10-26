@@ -3,7 +3,6 @@ D:\Project\Git\test\Test\api1\bin\Debug\netcoreapp2.0\api1.runtimeconfig.json
 D:\Project\Git\test\Test\api1\bin\Debug\netcoreapp2.0\api1.runtimeconfig.dev.json
 D:\Project\Git\test\Test\api1\bin\Debug\netcoreapp2.0\api1.dll
 D:\Project\Git\test\Test\api1\bin\Debug\netcoreapp2.0\api1.pdb
-D:\Project\Git\test\Test\api1\obj\Debug\netcoreapp2.0\api1.csprojResolveAssemblyReference.cache
 D:\Project\Git\test\Test\api1\obj\Debug\netcoreapp2.0\api1.csproj.CoreCompileInputs.cache
 D:\Project\Git\test\Test\api1\obj\Debug\netcoreapp2.0\api1.AssemblyInfoInputs.cache
 D:\Project\Git\test\Test\api1\obj\Debug\netcoreapp2.0\api1.AssemblyInfo.cs
@@ -12,3 +11,4 @@ D:\Project\Git\test\Test\api1\obj\Debug\netcoreapp2.0\api1.pdb
 D:\Project\Git\test\Test\api1\bin\Debug\netcoreapp2.0\ConsulDiscovery.dll
 D:\Project\Git\test\Test\api1\bin\Debug\netcoreapp2.0\ConsulDiscovery.pdb
 D:\Project\Git\test\Test\api1\obj\Debug\netcoreapp2.0\api1.csproj.CopyComplete
+D:\Project\Git\test\Test\api1\obj\Debug\netcoreapp2.0\api1.csprojAssemblyReference.cache

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "3a6463b30b82152e9d63a438e390164850efb2b1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "PollyDemo/1.0.0": {
+        "dependencies": {
+          "Polly": "6.1.0"
+        },
+        "runtime": {
+          "PollyDemo.dll": {}
+        }
+      },
+      "Polly/6.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PollyDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polly/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JJBouyXAMUpqKA832Qa+Os0IPKBaLpAvDOA8iNkT3jIl8b8R4xh9EjMBajxvyZElqSzYmOG137CIbfKKWt1XkQ==",
+      "path": "polly/6.1.0",
+      "hashPath": "polly.6.1.0.nupkg.sha512"
+    }
+  }
+}

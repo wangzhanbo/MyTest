@@ -8,4 +8,4 @@ D:\Project\Git\test\Test\CommandLineSample\obj\Debug\netcoreapp2.0\CommandLineSa
 D:\Project\Git\test\Test\CommandLineSample\obj\Debug\netcoreapp2.0\CommandLineSample.AssemblyInfo.cs
 D:\Project\Git\test\Test\CommandLineSample\obj\Debug\netcoreapp2.0\CommandLineSample.dll
 D:\Project\Git\test\Test\CommandLineSample\obj\Debug\netcoreapp2.0\CommandLineSample.pdb
-D:\Project\Git\test\Test\CommandLineSample\obj\Debug\netcoreapp2.0\CommandLineSample.csprojResolveAssemblyReference.cache
+D:\Project\Git\test\Test\CommandLineSample\obj\Debug\netcoreapp2.0\CommandLineSample.csprojAssemblyReference.cache

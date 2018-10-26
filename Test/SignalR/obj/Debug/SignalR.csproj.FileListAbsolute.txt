@@ -100,7 +100,6 @@ D:\Project\Git\test\Test\SignalR\bin\zh-Hans\System.Web.Razor.resources.dll
 D:\Project\Git\test\Test\SignalR\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\Project\Git\test\Test\SignalR\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\Project\Git\test\Test\SignalR\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\Project\Git\test\Test\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
 D:\Project\Git\test\Test\SignalR\obj\Debug\SignalR.csproj.CoreCompileInputs.cache
 D:\Project\Git\test\Test\SignalR\obj\Debug\SignalR.csproj.CopyComplete
 D:\Project\Git\test\Test\SignalR\obj\Debug\SignalR.dll
@@ -120,3 +119,4 @@ D:\Project\Git\test\Test\SignalR\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 D:\Project\Git\test\Test\SignalR\bin\System.Diagnostics.DiagnosticSource.dll
 D:\Project\Git\test\Test\SignalR\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\Project\Git\test\Test\SignalR\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\Git\test\Test\SignalR\obj\Debug\SignalR.csprojAssemblyReference.cache

@@ -11,3 +11,4 @@ D:\Project\Git\test\Test\MediatRDemo\bin\Debug\netcoreapp2.1\MediatRDemo.pdb
 D:\Project\Git\test\Test\MediatRDemo\obj\Debug\netcoreapp2.1\MediatRDemo.RazorTargetAssemblyInfo.cache
 D:\Project\Git\test\Test\MediatRDemo\obj\Debug\netcoreapp2.1\MediatRDemo.dll
 D:\Project\Git\test\Test\MediatRDemo\obj\Debug\netcoreapp2.1\MediatRDemo.pdb
+D:\Project\Git\test\Test\MediatRDemo\obj\Debug\netcoreapp2.1\MediatRDemo.csprojAssemblyReference.cache

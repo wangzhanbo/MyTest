@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\PollyDemo\bin\Debug\netcoreapp2.1\PollyDemo.deps.json
+D:\Project\Git\test\Test\PollyDemo\bin\Debug\netcoreapp2.1\PollyDemo.runtimeconfig.json
+D:\Project\Git\test\Test\PollyDemo\bin\Debug\netcoreapp2.1\PollyDemo.runtimeconfig.dev.json
+D:\Project\Git\test\Test\PollyDemo\bin\Debug\netcoreapp2.1\PollyDemo.dll
+D:\Project\Git\test\Test\PollyDemo\obj\Debug\netcoreapp2.1\PollyDemo.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\PollyDemo\obj\Debug\netcoreapp2.1\PollyDemo.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\PollyDemo\obj\Debug\netcoreapp2.1\PollyDemo.AssemblyInfo.cs
+D:\Project\Git\test\Test\PollyDemo\bin\Debug\netcoreapp2.1\PollyDemo.pdb
+D:\Project\Git\test\Test\PollyDemo\obj\Debug\netcoreapp2.1\PollyDemo.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\PollyDemo\obj\Debug\netcoreapp2.1\PollyDemo.dll
+D:\Project\Git\test\Test\PollyDemo\obj\Debug\netcoreapp2.1\PollyDemo.pdb

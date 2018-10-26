@@ -3,10 +3,10 @@ D:\Project\Git\test\Test\ML\bin\Debug\netcoreapp2.0\ML.runtimeconfig.json
 D:\Project\Git\test\Test\ML\bin\Debug\netcoreapp2.0\ML.runtimeconfig.dev.json
 D:\Project\Git\test\Test\ML\bin\Debug\netcoreapp2.0\ML.dll
 D:\Project\Git\test\Test\ML\bin\Debug\netcoreapp2.0\ML.pdb
-D:\Project\Git\test\Test\ML\obj\Debug\netcoreapp2.0\ML.csprojResolveAssemblyReference.cache
 D:\Project\Git\test\Test\ML\obj\Debug\netcoreapp2.0\ML.csproj.CoreCompileInputs.cache
 D:\Project\Git\test\Test\ML\obj\Debug\netcoreapp2.0\ML.AssemblyInfoInputs.cache
 D:\Project\Git\test\Test\ML\obj\Debug\netcoreapp2.0\ML.AssemblyInfo.cs
 D:\Project\Git\test\Test\ML\obj\Debug\netcoreapp2.0\ML.dll
 D:\Project\Git\test\Test\ML\obj\Debug\netcoreapp2.0\ML.pdb
 D:\Project\Git\test\Test\ML\bin\Debug\netcoreapp2.0\iris-data.txt
+D:\Project\Git\test\Test\ML\obj\Debug\netcoreapp2.0\ML.csprojAssemblyReference.cache
