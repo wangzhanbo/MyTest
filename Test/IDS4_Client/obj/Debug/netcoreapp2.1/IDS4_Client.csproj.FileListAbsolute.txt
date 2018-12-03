@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\IDS4_Client\bin\Debug\netcoreapp2.1\IDS4_Client.deps.json
+D:\Project\Git\test\Test\IDS4_Client\bin\Debug\netcoreapp2.1\IDS4_Client.runtimeconfig.json
+D:\Project\Git\test\Test\IDS4_Client\bin\Debug\netcoreapp2.1\IDS4_Client.runtimeconfig.dev.json
+D:\Project\Git\test\Test\IDS4_Client\bin\Debug\netcoreapp2.1\IDS4_Client.dll
+D:\Project\Git\test\Test\IDS4_Client\obj\Debug\netcoreapp2.1\IDS4_Client.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\IDS4_Client\obj\Debug\netcoreapp2.1\IDS4_Client.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\IDS4_Client\obj\Debug\netcoreapp2.1\IDS4_Client.AssemblyInfo.cs
+D:\Project\Git\test\Test\IDS4_Client\obj\Debug\netcoreapp2.1\IDS4_Client.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\IDS4_Client\bin\Debug\netcoreapp2.1\IDS4_Client.pdb
+D:\Project\Git\test\Test\IDS4_Client\obj\Debug\netcoreapp2.1\IDS4_Client.dll
+D:\Project\Git\test\Test\IDS4_Client\obj\Debug\netcoreapp2.1\IDS4_Client.pdb

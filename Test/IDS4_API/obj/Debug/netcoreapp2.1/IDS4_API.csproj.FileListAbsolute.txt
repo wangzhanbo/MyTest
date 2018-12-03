@@ -1,0 +1,14 @@
+D:\Project\Git\test\Test\IDS4_API\bin\Debug\netcoreapp2.1\IDS4_API.deps.json
+D:\Project\Git\test\Test\IDS4_API\bin\Debug\netcoreapp2.1\IDS4_API.runtimeconfig.json
+D:\Project\Git\test\Test\IDS4_API\bin\Debug\netcoreapp2.1\IDS4_API.runtimeconfig.dev.json
+D:\Project\Git\test\Test\IDS4_API\bin\Debug\netcoreapp2.1\IDS4_API.dll
+D:\Project\Git\test\Test\IDS4_API\bin\Debug\netcoreapp2.1\IDS4_API.pdb
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.RazorAssemblyInfo.cache
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.RazorAssemblyInfo.cs
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.AssemblyInfo.cs
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.RazorTargetAssemblyInfo.cache
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.dll
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.pdb
+D:\Project\Git\test\Test\IDS4_API\obj\Debug\netcoreapp2.1\IDS4_API.csprojAssemblyReference.cache

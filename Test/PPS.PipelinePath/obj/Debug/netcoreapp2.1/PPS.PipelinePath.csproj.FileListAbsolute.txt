@@ -1,0 +1,14 @@
+D:\Project\Git\test\Test\PPS.PipelinePath\bin\Debug\netcoreapp2.1\PPS.PipelinePath.deps.json
+D:\Project\Git\test\Test\PPS.PipelinePath\bin\Debug\netcoreapp2.1\PPS.PipelinePath.runtimeconfig.json
+D:\Project\Git\test\Test\PPS.PipelinePath\bin\Debug\netcoreapp2.1\PPS.PipelinePath.runtimeconfig.dev.json
+D:\Project\Git\test\Test\PPS.PipelinePath\bin\Debug\netcoreapp2.1\PPS.PipelinePath.dll
+D:\Project\Git\test\Test\PPS.PipelinePath\bin\Debug\netcoreapp2.1\PPS.PipelinePath.pdb
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.RazorAssemblyInfo.cache
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.RazorAssemblyInfo.cs
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.AssemblyInfo.cs
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.RazorTargetAssemblyInfo.cache
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.dll
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.pdb
+D:\Project\Git\test\Test\PPS.PipelinePath\obj\Debug\netcoreapp2.1\PPS.PipelinePath.csprojAssemblyReference.cache

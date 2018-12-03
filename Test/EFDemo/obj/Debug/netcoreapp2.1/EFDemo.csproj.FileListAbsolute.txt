@@ -1,0 +1,11 @@
+D:\Project\Git\test\Test\EFDemo\bin\Debug\netcoreapp2.1\EFDemo.deps.json
+D:\Project\Git\test\Test\EFDemo\bin\Debug\netcoreapp2.1\EFDemo.runtimeconfig.json
+D:\Project\Git\test\Test\EFDemo\bin\Debug\netcoreapp2.1\EFDemo.runtimeconfig.dev.json
+D:\Project\Git\test\Test\EFDemo\bin\Debug\netcoreapp2.1\EFDemo.dll
+D:\Project\Git\test\Test\EFDemo\obj\Debug\netcoreapp2.1\EFDemo.csproj.CoreCompileInputs.cache
+D:\Project\Git\test\Test\EFDemo\obj\Debug\netcoreapp2.1\EFDemo.AssemblyInfoInputs.cache
+D:\Project\Git\test\Test\EFDemo\obj\Debug\netcoreapp2.1\EFDemo.AssemblyInfo.cs
+D:\Project\Git\test\Test\EFDemo\obj\Debug\netcoreapp2.1\EFDemo.csprojAssemblyReference.cache
+D:\Project\Git\test\Test\EFDemo\bin\Debug\netcoreapp2.1\EFDemo.pdb
+D:\Project\Git\test\Test\EFDemo\obj\Debug\netcoreapp2.1\EFDemo.dll
+D:\Project\Git\test\Test\EFDemo\obj\Debug\netcoreapp2.1\EFDemo.pdb

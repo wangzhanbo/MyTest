@@ -6,9 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            MyClass myClass = new MyClass();
-            object i = myClass.MyMehtod("hello,china");
-            Console.WriteLine(i);
+            //MyClass myClass = new MyClass();
+            //object i = myClass.MyMehtod("hello,china");
+            //Console.WriteLine(i);
             Console.ReadKey();
         }
     }

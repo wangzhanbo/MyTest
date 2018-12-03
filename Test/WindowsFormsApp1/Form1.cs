@@ -46,9 +46,10 @@ namespace WindowsFormsApp1
             list.Add(segment23);
             list.Add(segment36);
             list.Add(segment69);
+
             list.Add(segment14);
             list.Add(segment47);
-            list.Add(segment78);
+            //list.Add(segment78);
             list.Add(segment89);
 
             findNode(list, segment, new Node() { Id = 9 });
